@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to left, rgb(21, 194, 194), rgb(28, 150, 101));
+}
+
+div{
+    width: 500px;
+    height: 400px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+
+input{
+    width: 300px;
+    height: 40px;
+    font-size: medium;
+    border-radius: 5px;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+    font-size: medium;
+    border-radius: 5px;
+    background-color: #1f6363;
+    color: white;
+    border-radius: 5px;
+}
