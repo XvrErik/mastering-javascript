@@ -13,7 +13,7 @@ div{
     width: 500px;
     height: 400px;
     display: flex;
-    align-items: center;
+    align-items: bottom;
     justify-content: center;
     flex-direction: column;
     box-sizing: border-box;
