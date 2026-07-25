@@ -24,16 +24,16 @@ div{
 input{
     width: 300px;
     height: 40px;
+    gap: 10px;
     font-size: medium;
     border-radius: 5px;
 }
 
 button{
-    width: 100px;
+    width: 300px;
     height: 40px;
     font-size: medium;
     border-radius: 5px;
     background-color: #1f6363;
     color: white;
-    border-radius: 5px;
 }
